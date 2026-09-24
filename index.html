@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trevor Swarm | LCCC Continuing Contract Teaching Portfolio</title>
+  <style>
+    :root {
+      --primary: #003366;
+      --primary-dark: #002244;
+      --accent: #C59B27;
+      --accent-light: #F7E9BE;
+      --bg: #F8FAFC;
+      --card-bg: #FFFFFF;
+      --text: #1E293B;
+      --text-muted: #64748B;
+      --border: #E2E8F0;
+      --success: #10B981;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+      color: white;
+      padding: 2.5rem 2rem;
+      border-bottom: 4px solid var(--accent);
+    }
+    .header-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.5rem;
+    }
+    .profile-info h1 {
+      font-size: 2.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.25rem;
+    }
+    .profile-info p {
+      font-size: 1.1rem;
+      opacity: 0.9;
+    }
+    .badges {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-top: 0.75rem;
+    }
+    .badge {
+      background: rgba(255, 255, 255, 0.15);
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      padding: 0.35rem 0.75rem;
+      border-radius: 9999px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #FFF;
+    }
+    .badge-accent {
+      background: var(--accent);
+      color: var(--primary-dark);
+      border: none;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 2rem auto;
+      padding: 0 1.5rem;
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 2rem;
+    }
+    @media (max-width: 860px) {
+      .container { grid-template-columns: 1fr; }
+    }
+    nav.sidebar {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem;
+      position: sticky;
+      top: 1.5rem;
+      height: fit-content;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    }
+    nav.sidebar h3 {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+      margin-bottom: 1rem;
+    }
+    nav.sidebar ul { list-style: none; }
+    nav.sidebar li { margin-bottom: 0.5rem; }
+    nav.sidebar button {
+      width: 100%;
+      text-align: left;
+      padding: 0.65rem 0.85rem;
+      background: none;
+      border: none;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: var(--text);
+      cursor: pointer;
+      transition: all 0.15s ease;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    nav.sidebar button:hover {
+      background: #F1F5F9;
+      color: var(--primary);
+    }
+    nav.sidebar button.active {
+      background: var(--primary);
+      color: white;
+      font-weight: 600;
+    }
+    main.content-area {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 2.5rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+      min-height: 600px;
+    }
+    .section-content { display: none; }
+    .section-content.active { display: block; animation: fadeIn 0.2s ease-in-out; }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .project-header-box {
+      background: #F8FAFC;
+      border-left: 4px solid var(--primary);
+      padding: 1rem 1.25rem;
+      border-radius: 0 8px 8px 0;
+      margin-bottom: 1.5rem;
+      font-size: 0.95rem;
+    }
+    .project-header-box p { margin-bottom: 0.25rem; font-weight: 600; color: var(--primary); }
+    .project-header-box span { font-weight: 400; color: var(--text); }
+    h2 {
+      font-size: 1.75rem;
+      color: var(--primary-dark);
+      margin-bottom: 1rem;
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 0.5rem;
+    }
+    h3 {
+      font-size: 1.3rem;
+      color: var(--primary);
+      margin: 1.5rem 0 0.75rem 0;
+    }
+    p { margin-bottom: 1rem; }
+    .abstract-box {
+      background: var(--accent-light);
+      border: 1px solid #E8D394;
+      padding: 1.25rem;
+      border-radius: 8px;
+      font-style: italic;
+      margin-bottom: 2rem;
+    }
+    .abstract-box strong { font-style: normal; color: #855C00; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+    }
+    th, td {
+      border: 1px solid var(--border);
+      padding: 0.65rem 0.85rem;
+      text-align: left;
+    }
+    th {
+      background: #F1F5F9;
+      color: var(--primary);
+      font-weight: 600;
+    }
+    tr:nth-child(even) { background: #F8FAFC; }
+    .artifact-card {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.25rem;
+      margin-bottom: 1rem;
+      background: #FFFFFF;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .artifact-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .artifact-card h4 {
+      color: var(--primary);
+      margin-bottom: 0.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .link-btn {
+      display: inline-block;
+      padding: 0.35rem 0.75rem;
+      background: var(--primary);
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      margin-top: 0.5rem;
+    }
+    .link-btn:hover { background: var(--primary-dark); }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-container">
+      <div class="profile-info">
+        <h1>Trevor Swarm</h1>
+        <p>Instructor of Computer Science & Artificial Intelligence</p>
+        <p style="font-size: 0.95rem; opacity: 0.85;">Business & Technology Division | Laramie County Community College</p>
+        <div class="badges">
+          <span class="badge badge-accent">Continuing Contract Portfolio</span>
+          <span class="badge">2023 Faculty Cohort</span>
+          <span class="badge">Review Period: 2023–2026</span>
+          <span class="badge">LCCC CET Standards</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <nav class="sidebar">
+      <h3>Portfolio Sections</h3>
+      <ul>
+        <li><button class="active" onclick="showSection('overview')">📌 Portfolio Overview</button></li>
+        <li><button onclick="showSection('p1')">🎓 Project 1: AI Program Review</button></li>
+        <li><button onclick="showSection('p2')">💻 Project 2: Student-Centered</button></li>
+        <li><button onclick="showSection('p3')">🤝 Project 3: Welcoming Climate</button></li>
+        <li><button onclick="showSection('p4')">🌐 Project 4: Professional Dev</button></li>
+        <li><button onclick="showSection('p5')">📊 Project 5: Teaching Effectiveness</button></li>
+        <li><button onclick="showSection('philosophy')">📖 Teaching Philosophy</button></li>
+        <li><button onclick="showSection('matrix')">🗺️ Competency Matrix</button></li>
+      </ul>
+    </nav>
+
+    <main class="content-area">
+      <!-- OVERVIEW -->
+      <section id="overview" class="section-content active">
+        <h2>Continuing Contract Portfolio Overview</h2>
+        <p>Welcome to the Continuing Contract Teaching Portfolio for Trevor Swarm at Laramie County Community College (LCCC). This comprehensive exhibit provides concrete evidence of excellence in instruction, competency-based curriculum design, inclusive classroom environments, and data-driven teaching effectiveness.</p>
+        
+        <h3>Portfolio Projects at a Glance</h3>
+        <table>
+          <thead>
+            <tr>
+              <th>Project</th>
+              <th>Domain</th>
+              <th>Competency</th>
+              <th>Focus Area</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Project 1</strong></td>
+              <td>Competency-Based Design</td>
+              <td>Program Review</td>
+              <td>Founding Wyoming's first AAS in Artificial Intelligence; 7 new AIML courses.</td>
+            </tr>
+            <tr>
+              <td><strong>Project 2</strong></td>
+              <td>Teaching & Learning</td>
+              <td>Student-centered Instruction</td>
+              <td>Mini Programming Portfolios with student-choice verbal defense; database independent study.</td>
+            </tr>
+            <tr>
+              <td><strong>Project 3</strong></td>
+              <td>Inclusion in the Classroom</td>
+              <td>Student Environment</td>
+              <td>"No-code" visual logic on-ramps; Anthology inclusivity ratings of 3.86–4.00/4.00.</td>
+            </tr>
+            <tr>
+              <td><strong>Project 4</strong></td>
+              <td>Professionalism</td>
+              <td>Professional Development</td>
+              <td>Intel & Dell AI for Workforce initiative; University of Wyoming 2+2 articulation.</td>
+            </tr>
+            <tr>
+              <td><strong>Project 5</strong></td>
+              <td>Institutional Synthesis</td>
+              <td>Teaching Effectiveness</td>
+              <td>Multi-semester grade analysis; COSC 1030 DFW drop from 31.8% to 9.1%; ZyBooks evolution.</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h3>Reviewer Guidelines</h3>
+        <p>In accordance with LCCC Center for Excellence in Teaching (CET) parameters, each project is self-contained and formatted for a focused 15-minute review. Use the sidebar to inspect individual project rationales, layman artifact summaries, and deep reflective analyses.</p>
+      </section>
+
+      <!-- PROJECT 1 -->
+      <section id="p1" class="section-content">
+        <div class="project-header-box">
+          <p>Project Rationale, LCCC Teaching Portfolio</p>
+          <p>Domain: <span>Competency-Based Design</span></p>
+          <p>Competency: <span>Program Review (Assist in design, implementation, and review of academic programs aligned with current or emerging community, state, or national needs)</span></p>
+          <p>Candidate: <span>Trevor Swarm, 2023 Faculty Cohort</span></p>
+        </div>
+
+        <h2>Project 1: Course Development (AI Program Development)</h2>
+        
+        <div class="abstract-box">
+          <strong>Abstract:</strong> This project details my central role in researching, designing, and launching the first Associate of Applied Science (AAS) in Artificial Intelligence in the state of Wyoming, officially initiated in Fall 2025. Recognizing a rapid shift in workforce demands, I completed market research and collaborated with our regional Professional Advisory Committee (PAC) to design a state-aligned technical pathway. I developed curriculum specifications and syllabi for seven entirely new artificial intelligence (AIML) courses, alongside a substantial modernization of Computer Science II (COSC 2030) and the creation of Data Engineering (COSC 2060). Throughout this curriculum build, I integrated Bloom’s Taxonomy to systematically scaffold student learning, transitioning learners from foundational "no-code" logic and ethics to applied machine learning and neural network deployment. I successfully navigated the multi-tier local Academic Standards Committee, the Wyoming Community College Commission (WCCC) approval process, and the Higher Learning Commission (HLC) notification cycle. Funded in part by the state's Wyoming Innovation Partnership (WIP) grant, this program positions Laramie County Community College as a regional leader in emerging technology education. The resulting curriculum provides our community with accessible, industry-aligned credentials that bridge directly to high-demand technical careers.
+        </div>
+
+        <h3>Key Curated Artifacts</h3>
+        <div class="artifact-card">
+          <h4>Artifact 1: WCCC New Program Request Form (AAS in AI) <span>State Approval</span></h4>
+          <p>Master institutional proposal approved by the Wyoming Community College Commission (March 2024), documenting regional labor demand (>50% growth), budget allocations, and 63-credit sequence.</p>
+          <a class="link-btn" href="projects/01-program-review-ai/artifacts/WCCC_New_Program_Request_Form_AI.md">View Artifact Summary</a>
+        </div>
+
+        <div class="artifact-card">
+          <h4>Artifact 2: AIML 7-Course Curriculum Scaffold & Master Syllabi <span>Curriculum Map</span></h4>
+          <p>Course outlines and learning outcomes from AIML 1010 (Intro to AI) to AIML 2900 (Applied Capstone), systematically structured using Bloom's Taxonomy.</p>
+          <a class="link-btn" href="projects/01-program-review-ai/artifacts/AIML_Combined_Syllabus_2025_2026.md">View Course Syllabi</a>
+        </div>
+
+        <div class="artifact-card">
+          <h4>Artifact 3: AI Professional Advisory Committee (PAC) Minutes <span>Industry Alignment</span></h4>
+          <p>Advisory session records demonstrating how employer feedback led directly to integrating dedicated SQL database instruction and COSC 2060 (Data Engineering).</p>
+          <a class="link-btn" href="projects/01-program-review-ai/artifacts/2025_STEM_AI_PAC_Meeting_Recap.md">View PAC Minutes</a>
+        </div>
+      </section>
+
+      <!-- PROJECT 2 -->
+      <section id="p2" class="section-content">
+        <div class="project-header-box">
+          <p>Project Rationale, LCCC Teaching Portfolio</p>
+          <p>Domain: <span>Teaching and Learning</span></p>
+          <p>Competency: <span>Student-centered Instruction (Provide student-centered instruction to maximize student engagement and success)</span></p>
+          <p>Candidate: <span>Trevor Swarm, 2023 Faculty Cohort</span></p>
+        </div>
+
+        <h2>Project 2: Student-Centered Instruction</h2>
+
+        <div class="abstract-box">
+          <strong>Abstract:</strong> This project demonstrates my student-centered approach to maximizing engagement and mastery across LCCC's Computer Science and Artificial Intelligence courses. In courses like Python Programming (COSC 2409) and Computer Science I (COSC 1030), I replaced conventional weekly homework policing with cumulative "Mini Programming Portfolios." This model gives students agency over their learning, allowing them to choose their own development environments and demonstrate mastery through a student-choice evaluation: an asynchronous screen-share video explanation or a live 1-on-1 virtual code conference. Student course evaluations consistently confirm that this dialogue-first model is far more personalized and less stressful than automated syntax grading. The portfolios transform evaluation into collaborative mentorship, eliminating the exam panic that frequently causes introductory programming students to withdraw. Furthermore, student-centered instruction requires active institutional advocacy. When a Spring 2026 administrative scheduling decision canceled a required database prerequisite, I designed a modern PostgreSQL curriculum over the summer and launched it as an independent study in Fall 2026 to keep three graduating students on track without delaying their degrees. This project exhibits my dedication to meeting learners where they are and removing barriers to their academic progression.
+        </div>
+
+        <h3>Key Curated Artifacts</h3>
+        <div class="artifact-card">
+          <h4>Artifact 1: Mini Programming Portfolio Assignment Prompt <span>Assignment Spec</span></h4>
+          <p>Launch sheet detailing the shift from rote weekly checking to cumulative portfolio defense, with explicit guidelines on ethical tool use and verbal justification.</p>
+          <a class="link-btn" href="projects/02-student-centered-instruction/artifacts/Mini_Programming_Portfolio_Prompt.md">View Assignment Prompt</a>
+        </div>
+
+        <div class="artifact-card">
+          <h4>Artifact 2: Choice-Based Diagnostic Rubric & Interview Protocol <span>Assessment Tool</span></h4>
+          <p>Rubric standardizing evaluation criteria across asynchronous video recordings and live Zoom code clinics, evaluating logic, modularity, and defense.</p>
+          <a class="link-btn" href="projects/02-student-centered-instruction/artifacts/Mini_Portfolio_Questions_Rubric.md">View Rubric & Prompts</a>
+        </div>
+
+        <div class="artifact-card">
+          <h4>Artifact 3: Student Feedback Reflections & Summer Independent Study Memo <span>Advocacy</span></h4>
+          <p>Student testimonials highlighting reduced testing anxiety, alongside authorization documents for the summer PostgreSQL course keeping 3 students graduating on time.</p>
+          <a class="link-btn" href="projects/02-student-centered-instruction/artifacts/Sample_Portfolio_Feedback.md">View Feedback & Memo</a>
+        </div>
+      </section>
+
+      <!-- PROJECT 3 -->
+      <section id="p3" class="section-content">
+        <div class="project-header-box">
+          <p>Project Rationale, LCCC Teaching Portfolio</p>
+          <p>Domain: <span>Inclusion in the Classroom</span></p>
+          <p>Competency: <span>Student Environment (Provide a learning environment that promotes respect and rapport, and values difference)</span></p>
+          <p>Candidate: <span>Trevor Swarm, 2023 Faculty Cohort</span></p>
+        </div>
+
+        <h2>Project 3: Promoting a Welcoming and Inclusive Environment</h2>
+
+        <div class="abstract-box">
+          <strong>Abstract:</strong> This project documents my intentional strategies to make computer science and artificial intelligence accessible, supportive, and inclusive for all learners. Technical computing disciplines are historically plagued by high attrition and equity gaps, often intimidating non-traditional, female, and first-generation college students who lack prior exposure to code. To dismantle this barrier, I implemented "no-code" visual on-ramps in introductory courses like COSC 1010 and AIML 1010. By grounding initial units in logic puzzles, system flowcharts, and real-world ethical problem-solving, students discover that computational thinking is a human skill rather than an innate talent. Complementing this curricular on-ramp is an intentional, high-touch communication protocol: I maintain a strict 12-to-24-hour email response commitment and post weekly unedited video check-ins that humanize the online space. The quantitative results from Anthology Student Course Questionnaires (SCQs) validate this approach, showing consistent average scores between 3.86 and 4.00 out of 4.00 on the "welcoming and inclusive" metric across all terms. This project showcases how cultivating psychological safety, normalizing mistakes, and providing transparent support allows diverse students to thrive in rigorous STEM pathways.
+        </div>
+
+        <h3>Key Curated Artifacts</h3>
+        <div class="artifact-card">
+          <h4>Artifact 1: Anthology SCQ Longitudinal Inclusivity Report <span>Institutional Data</span></h4>
+          <p>Verified survey metrics across 2024–2026 showing near-perfect ratings (3.86 to 4.00/4.00) on classroom climate and instructor responsiveness.</p>
+          <a class="link-btn" href="projects/03-student-environment/artifacts/SCQ_Inclusivity_Summary.md">View Inclusivity Data</a>
+        </div>
+
+        <div class="artifact-card">
+          <h4>Artifact 2: "No-Code" Visual On-Ramp Lesson Plans <span>Curricular Scaffold</span></h4>
+          <p>Introductory modules using flowcharting, decision trees, and everyday systems to teach algorithmic reasoning before introducing strict compiler syntax.</p>
+          <a class="link-btn" href="projects/03-student-environment/artifacts/Meeting_Students_Where_They_Are_Plan.md">View On-Ramp Plan</a>
+        </div>
+      </section>
+
+      <!-- PROJECT 4 -->
+      <section id="p4" class="section-content">
+        <div class="project-header-box">
+          <p>Project Rationale, LCCC Teaching Portfolio</p>
+          <p>Domain: <span>Professionalism</span></p>
+          <p>Competency: <span>Professional Development (Engage in professional development)</span></p>
+          <p>Candidate: <span>Trevor Swarm, 2023 Faculty Cohort</span></p>
+        </div>
+
+        <h2>Project 4: Professional Development and Collaboration</h2>
+
+        <div class="abstract-box">
+          <strong>Abstract:</strong> This project showcases my continuous engagement with industry leaders, state working groups, and university partners to align LCCC’s technical education with emerging workforce demands. In rapidly accelerating disciplines like Artificial Intelligence and Computer Science, faculty development cannot be confined to passive conference attendance; it requires active collaboration with industry architects. To ensure our new AI degree meets employer standards, I completed rigorous technical training through Intel and Dell's "AI for the Workforce" initiative. This partnership enabled me to integrate validated curriculum modules—such as Intel’s Data-Centric AI and computer vision frameworks—directly into our AIML coursework. Simultaneously, I coordinated with faculty at the University of Wyoming's (UW) School of Computing to negotiate comprehensive 2+2 articulation agreements, establishing guaranteed credit pathways for community college graduates transitioning into four-year computational degrees. This project features curricular integration matrices, articulation correspondence, and technical training verification. Together, they demonstrate how ongoing professional development strengthens institutional partnerships, elevates instructional rigor, and equips LCCC students with competitive, high-demand workforce credentials.
+        </div>
+
+        <h3>Key Curated Artifacts</h3>
+        <div class="artifact-card">
+          <h4>Artifact 1: Intel & Dell "AI for Workforce" Integration Matrix <span>Industry Partnership</span></h4>
+          <p>Documentation showing how national corporate training modules in machine learning and computer vision are embedded into LCCC's AIML coursework.</p>
+          <a class="link-btn" href="projects/04-professional-development/artifacts/Intel_Dell_AI_Workforce_Matrix.md">View Curriculum Matrix</a>
+        </div>
+
+        <div class="artifact-card">
+          <h4>Artifact 2: UW School of Computing Articulation Crosswalk <span>Transfer Pathway</span></h4>
+          <p>Formal course equivalencies establishing seamless junior standing for LCCC computing graduates transferring into the University of Wyoming.</p>
+          <a class="link-btn" href="projects/04-professional-development/artifacts/UW_School_of_Computing_Articulation_Crosswalk.md">View Transfer Crosswalk</a>
+        </div>
+
+        <div class="artifact-card">
+          <h4>Artifact 3: Technical Professional Development Log <span>Continuous Learning</span></h4>
+          <p>Record of workshops, cloud credentials (AWS), and machine learning intensives completed from 2023 to 2026.</p>
+          <a class="link-btn" href="projects/04-professional-development/artifacts/Professional_Development_Training_Log.md">View Training Log</a>
+        </div>
+      </section>
+
+      <!-- PROJECT 5 -->
+      <section id="p5" class="section-content">
+        <div class="project-header-box">
+          <p>LCCC Teaching Portfolio: Synthesis Project</p>
+          <p>Section: <span>Teaching Effectiveness Project Narrative</span></p>
+          <p>Discipline: <span>Computer Science & Artificial Intelligence</span></p>
+          <p>Candidate: <span>Trevor Swarm, 2023 Faculty Cohort (Review Period: 2023–2026)</span></p>
+        </div>
+
+        <h2>Project 5: Teaching Effectiveness Project Narrative</h2>
+
+        <div class="abstract-box">
+          <strong>Abstract:</strong> This project presents a comprehensive, data-driven narrative of my instructional performance, student learning outcomes, and responsive course improvements across my continuing contract review period. Drawing upon official course success metrics from LCCC Institutional Research (IR), multi-semester quantitative ratings from Anthology (Campus Labs) Student Course Questionnaires, and qualitative student feedback, I evaluate my teaching effectiveness and demonstrate continuous instructional adaptation. The data reveals consistent strengths in instructor accessibility, course organization, and technological integration, with student responsiveness ratings consistently averaging between 3.89 and 4.00 out of 4.00. However, evaluations also highlighted a critical challenge: recurring student fatigue with our interactive digital textbook (ZyBooks), which learners frequently described as dry, overly repetitive, and punitive regarding syntax formatting. This narrative details how I actively resolved this feedback by reducing required automated reading checkpoints, rebalancing grading weights toward custom, hands-on programming projects, and producing targeted video walkthroughs to demystify complex logic. The subsequent data confirms the success of these interventions, evidenced by sustained 95% pass rates in Python Programming and a dramatic drop in Computer Science I DFW rates from 31.8% to 9.1%.
+        </div>
+
+        <h3>Course Success & DFW Trends (2024–2025)</h3>
+        <table>
+          <thead>
+            <tr>
+              <th>Course</th>
+              <th>Term</th>
+              <th>Enrolled</th>
+              <th>Pass Count</th>
+              <th>Pass Rate</th>
+              <th>DFW Rate</th>
+              <th>Notes / Interventions</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>COSC 1030</strong></td>
+              <td>24/FA</td>
+              <td>22</td>
+              <td>15</td>
+              <td>68.2%</td>
+              <td>31.8%</td>
+              <td>Initial baseline; pointer/memory syntax friction.</td>
+            </tr>
+            <tr style="background: #E8F5E9;">
+              <td><strong>COSC 1030</strong></td>
+              <td>25/FA</td>
+              <td>11</td>
+              <td>10</td>
+              <td><strong>90.9%</strong></td>
+              <td><strong>9.1%</strong></td>
+              <td>Turnaround: video walkthroughs & coding clinics.</td>
+            </tr>
+            <tr>
+              <td><strong>COSC 2409</strong></td>
+              <td>24/SP</td>
+              <td>22</td>
+              <td>21</td>
+              <td><strong>95.5%</strong></td>
+              <td>4.5%</td>
+              <td>Mini Programming Portfolio model implemented.</td>
+            </tr>
+            <tr>
+              <td><strong>COSC 2409</strong></td>
+              <td>25/SP</td>
+              <td>20</td>
+              <td>19</td>
+              <td><strong>95.0%</strong></td>
+              <td>5.0%</td>
+              <td>Sustained excellence; near-zero withdrawals.</td>
+            </tr>
+            <tr style="background: #E8F5E9;">
+              <td><strong>COSC 2030</strong></td>
+              <td>25/SP</td>
+              <td>11</td>
+              <td>11</td>
+              <td><strong>100.0%</strong></td>
+              <td><strong>0.0%</strong></td>
+              <td>Advanced data structures mastery; 10 'A' grades.</td>
+            </tr>
+            <tr>
+              <td><strong>AIML 1010</strong></td>
+              <td>25/FA</td>
+              <td>12</td>
+              <td>11</td>
+              <td><strong>91.7%</strong></td>
+              <td>8.3%</td>
+              <td>Inaugural AI launch; "no-code" onramp success.</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h3>The ZyBooks Evolution & Future OER Vision</h3>
+        <p>In response to constructive student feedback regarding reading fatigue in ZyBooks, I implemented a 3-part curricular reform: re-weighting grading away from mechanical reading clicks, producing bite-sized video walk-throughs, and introducing verbal-defense mini portfolios. Moving forward, I am leading an initiative to migrate foundational programming courses to custom, interactive Open Educational Resources (OER), eliminating textbook costs for LCCC students.</p>
+      </section>
+
+      <!-- PHILOSOPHY -->
+      <section id="philosophy" class="section-content">
+        <h2>Teaching Philosophy & Pedagogical Framework</h2>
+        <p>My teaching philosophy is grounded in a simple commitment: <strong>meet students where they are, remove unnecessary friction, and scaffold rigorous skills until they achieve independent mastery.</strong></p>
+        
+        <h3>The Three Core Pillars</h3>
+        <div class="artifact-card">
+          <h4>1. Content-First Curriculum Architecture</h4>
+          <p>Authoring all instructional materials in LMS-agnostic Markdown to ensure portability, durable version control, and seamless mapping from Course Outlines of Record to weekly milestones.</p>
+        </div>
+
+        <div class="artifact-card">
+          <h4>2. The Five-Step Cognitive Apprenticeship</h4>
+          <p>Scaffolding complex technical topics through a repeatable loop: Real-World Problem &rarr; Tools/Syntax &rarr; Conceptual Deconstruction &rarr; Guided Live Coding ("I Do / We Do") &rarr; Independent Project ("You Do").</p>
+        </div>
+
+        <div class="artifact-card">
+          <h4>3. AI-Assisted Course Engineering</h4>
+          <p>Utilizing generative workflows to automate practice problems, diagnostic check-ins, and study scaffolds, reclaiming faculty time for high-impact 1-on-1 student code mentoring.</p>
+        </div>
+      </section>
+
+      <!-- MATRIX -->
+      <section id="matrix" class="section-content">
+        <h2>LCCC Faculty Competency Cross-Reference Matrix</h2>
+        <p>Every project in this portfolio directly addresses the four domains of excellence in instruction defined by Laramie County Community College.</p>
+        
+        <table>
+          <thead>
+            <tr>
+              <th>Domain</th>
+              <th>Faculty Competency</th>
+              <th>Portfolio Project</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Competency-Based Design</td>
+              <td><strong>Program Review</strong> (Assist in design/review of academic programs)</td>
+              <td><strong>Project 1: AI Program Development</strong></td>
+            </tr>
+            <tr>
+              <td>Teaching and Learning</td>
+              <td><strong>Student-centered Instruction</strong> (Maximize engagement/success)</td>
+              <td><strong>Project 2: Student-Centered Instruction</strong></td>
+            </tr>
+            <tr>
+              <td>Inclusion in Classroom</td>
+              <td><strong>Student Environment</strong> (Promote respect, rapport, and difference)</td>
+              <td><strong>Project 3: Welcoming Learning Environment</strong></td>
+            </tr>
+            <tr>
+              <td>Professionalism</td>
+              <td><strong>Professional Development</strong> (Continuous growth & partnerships)</td>
+              <td><strong>Project 4: Professional Development</strong></td>
+            </tr>
+            <tr>
+              <td>Institutional Synthesis</td>
+              <td><strong>Teaching Effectiveness</strong> (Data-driven learning analysis)</td>
+              <td><strong>Project 5: Teaching Effectiveness Narrative</strong></td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    function showSection(sectionId) {
+      document.querySelectorAll('.section-content').forEach(el => el.classList.remove('active'));
+      document.querySelectorAll('nav.sidebar button').forEach(btn => btn.classList.remove('active'));
+      
+      const target = document.getElementById(sectionId);
+      if (target) target.classList.add('active');
+      
+      event.target.classList.add('active');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  </script>
+</body>
+</html>
