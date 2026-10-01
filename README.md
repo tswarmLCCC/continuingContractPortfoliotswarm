@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-Welcome to the public Continuing Contract Teaching Portfolio for **Trevor Swarm**, Instructor of Computer Science and Artificial Intelligence within the Business and Technology Division at Laramie County Community College (LCCC). 
+Welcome to the public Continuing Contract Teaching Portfolio for **Trevor Swarm**, Instructor of Computer Science and Artificial Intelligence within the Science Department at Laramie County Community College (LCCC). 
 
 This portfolio provides a transparent, evidence-based showcase of instructional excellence, competency-based curriculum engineering, inclusive classroom culture, and data-driven continuous improvement. It is organized in strict alignment with the **LCCC Faculty Competencies** established by the Center for Excellence in Teaching (CET).
 
