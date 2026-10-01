@@ -42,6 +42,6 @@ For deeper background on teaching philosophy and cross-domain alignment, consult
 
 * **Name:** Trevor Swarm
 * **Title:** Instructor of Computer Science & Artificial Intelligence
-* **Division:** Business and Technology Division
+* **Division:** School of Arts and Science, Department of Science
 * **Institution:** Laramie County Community College, Cheyenne, WY
 * **Email:** [tswarm@lccc.wy.edu](mailto:tswarm@lccc.wy.edu)
