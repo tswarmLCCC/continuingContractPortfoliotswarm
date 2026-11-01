@@ -7,7 +7,13 @@
 > **CIP Code:** 11.0102 (*Artificial Intelligence and Robotics*)  
 > **Funding Alignment:** Wyoming Innovation Partnership (WIP) Phase II Grant (Digital Information Technology Pillar)  
 > **Credential Conferred:** Associate of Applied Science (AAS) in Artificial Intelligence (63–64 Total Credits)  
-> **Source File:** `legacy/Project 1 Course Development/Artifacts/WCCC New Program Request Form AI_05202024.docx`  
+> **Original Document:** 📥 **[Download Original WCCC Proposal Document (.docx)](WCCC_New_Program_Request_Form_AI.docx)**  
+> **Source Archive:** `legacy/Project 1 Course Development/Artifacts/WCCC New Program Request Form AI_05202024.docx`  
+
+---
+
+> [!TIP]
+> **Primary Source Document:** The full, official WCCC petition—including detailed state labor metrics, budget justifications, and signatures—is available for download here: **[WCCC_New_Program_Request_Form_AI.docx](WCCC_New_Program_Request_Form_AI.docx)**.
 
 ---
 
@@ -113,3 +119,9 @@ flowchart TD
   * `MATH 2250`: Introduction to Linear Algebra OR `COSC 2030`: Computer Programming II (3–4 cr)
 
 **Total Proposed Program Credits:** 63 to 64 Credits.
+
+---
+
+## 4. Primary Document Verification
+* **Download Approved State Petition:** 📥 [WCCC_New_Program_Request_Form_AI.docx](WCCC_New_Program_Request_Form_AI.docx)
+* **Return to Project Portfolio:** ⬅️ [Project 1 Rationale & Analysis](../README.md)
