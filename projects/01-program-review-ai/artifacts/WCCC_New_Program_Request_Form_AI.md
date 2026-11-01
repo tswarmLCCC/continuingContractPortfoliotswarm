@@ -34,7 +34,7 @@ The Associate of Applied Science (AAS) in Artificial Intelligence at LCCC was cr
 | **`AIML 2040`** | Artificial Intelligence for Computer Vision | 3 | Image processing, feature detection, OpenCV, vision models |
 | **`AIML 2050`** | Artificial Intelligence for Business Solutions | 3 | Applied enterprise AI, workflows, business intelligence |
 | **`AIML 2395`** | Artificial Intelligence Capstone | 3 | Real-world industry client project and oral/technical defense |
-| **`COSC 2060`** | Data Engineering | 3 | Data ingestion, SQL, cloud warehousing, pipeline cleaning |
+| **`COSC 2060`** | Data Engineering | 3 | Data ingestion, SQL, cloud warehousing, pipeline cleaning (rebuilt from legacy CMAP 1815) |
 
 ---
 
@@ -91,7 +91,7 @@ flowchart TD
 
 * **Spring Semester 1st Year (15 Credits):**
   * `AIML 1030`: Introduction to Machine Learning (3 cr)
-  * `CMAP 1815`: Database Applications (3 cr)
+  * `CMAP 1815`: Database Applications (3 cr) *(subsequently rebuilt into COSC 2060: Data Engineering / Modern SQL in response to PAC industry feedback)*
   * `ENGL 1010`: English Composition (3 cr)
   * `MATH 1400`: College Algebra OR `COSC 2409`: Programming (3 cr)
   * Wyoming Statutory Requirement (HIST 1211, HIST 1221, HIST 1251, POLS 1000, ECON 1200) (3 cr)
