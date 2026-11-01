@@ -1,31 +1,41 @@
-# Artifact 1.3: Professional Advisory Committee (PAC) Meeting Minutes & Curricular Actions
+# Artifact 1.3: Professional Advisory Committee (PAC) Minutes & Curricular Actions
 
 > **Committee:** LCCC Artificial Intelligence & STEM Professional Advisory Committee  
-> **Date:** January 2025  
-> **Attendees:** Regional IT Directors, State of Wyoming Enterprise Technology Services (ETS), University of Wyoming School of Computing Faculty, LCCC STEM Leadership, Trevor Swarm (Faculty Lead)  
+> **Meeting Cycles:** January 2024 (Inaugural Planning) & January 2025 (Curriculum Review)  
+> **Key Attendees:**  
+> * **Industry & State Partners:** Eric Trowbridge (Blue Federal Credit Union), Karen Rogers (Bureau of Land Management), Carmen (DOCA Healthcare AI), Chad Marley (LCCC CTO), State of Wyoming Enterprise Technology Services (ETS)  
+> * **Academic Partners:** Dr. Raya (University of Wyoming School of Computing), Julie Calkins (Laramie County School District #1)  
+> * **LCCC STEM Leadership:** Bryan Wilson (Dean/Director), Trent Morrell (STEM Pathway Coordinator), Trevor Swarm (Faculty Lead & Facilitator)  
+> **Source Files:** `legacy/Project 1 Course Development/2025 STEM-AI PAC Meeting Recap.docx`, `legacy/Project 1 Course Development/AI Advisory Meeting Minutes-1.4.24.docx`, and `legacy/Unfiled/PAC Meeting Transcription copy-paste.docx`  
 
 ---
 
-## 1. Meeting Overview & Primary Objectives
+## 1. Meeting Context & Strategic Objectives
 
-The bi-annual PAC meeting was convened to review the inaugural semester of the Artificial Intelligence AAS curriculum, examine student enrollments, and gather employer feedback regarding entry-level workforce expectations for 2025–2027 graduates.
+The Artificial Intelligence Advisory Group was convened to guide the curriculum build for Wyoming's first Associate of Applied Science in Artificial Intelligence, funded through the Wyoming Innovation Partnership (WIP) Phase II grant. The committee evaluated labor market demand, entry-level skill requirements, transfer pathways to the University of Wyoming, and student recruitment pipelines.
 
 ---
 
-## 2. Key Industry Feedback & Strategic Actions
+## 2. Key Stakeholder Findings & Direct Curricular Actions
 
-### Employer Finding 1: The Critical Need for Data Engineering
-* **Feedback:** Advisory members from state agencies and regional data centers emphasized that junior AI hires rarely build foundational models from scratch. Instead, **over 80% of entry-level workload involves data ingestion, SQL querying, schema validation, and ETL pipeline management.**
+### Finding 1: Builders vs. Users — Emphasizing Practical Data Engineering
+* **Stakeholder Feedback:** Advisory members emphasized that community college graduates must be trained as **creators and builders**, not merely end-users of commercial AI tools. Furthermore, industry partners (including state agencies and enterprise IT) noted that over 80% of entry-level technical work involves data ingestion, SQL pipeline validation, and data cleaning rather than theoretical model derivation.
 * **Curricular Action Taken by Trevor Swarm:**
-  * Fast-tracked the development of **`COSC 2060: Data Engineering`** to ensure all AI majors receive deep, hands-on SQL and PostgreSQL instruction.
-  * Adjusted course learning outcomes to include relational modeling, cloud database connection, and data cleaning scripts in Python and SQL.
+  * Created and introduced **`COSC 2060: Data Engineering`** as a required course in the degree sequence, focusing on relational database architecture, SQL, cloud ETL pipelines, and data quality assurance.
+  * Embedded local AI development environments via the newly established WIP-funded **LCCC AI Lab**, allowing students to deploy and fine-tune open-weights models locally and safely.
 
-### Employer Finding 2: Verbal and Technical Defense Skills
-* **Feedback:** Employers noted that technical competency must be accompanied by the ability to explain complex algorithmic choices to non-technical stakeholders and executive teams.
+### Finding 2: Verbal and Technical Defense in the Capstone
+* **Stakeholder Feedback:** Eric Trowbridge (Blue Federal Credit Union) and regional software managers noted that technical talent frequently struggles to communicate algorithmic choices and ethical risks to non-technical executive teams.
 * **Curricular Action Taken by Trevor Swarm:**
-  * Embedded mandatory oral defense and video walkthrough presentations into the capstone requirements (`AIML 2900`).
-  * Aligned the assessment structure with the "Mini Programming Portfolio" model used in foundational programming courses.
+  * Structured the final capstone course (**`AIML 2395: Artificial Intelligence Capstone`**) around an authentic client problem requiring both a working technical artifact and a mandatory oral presentation/defense.
+  * Extended the "Mini Programming Portfolio" model used in foundational courses into upper-division AI courses.
 
-### Employer Finding 3: Transfer Pathways to UW
-* **Feedback:** Academic representatives from the University of Wyoming supported formalizing 2+2 articulation so that community college students completing the AAS or AS can transfer junior-level standing into UW's School of Computing programs without redundant coursework.
-* **Action:** Initiated formal crosswalk alignment meetings with UW department leadership.
+### Finding 3: Accessible On-Ramps for Non-Traditional Students
+* **Stakeholder Feedback:** Demographic tracking revealed that approximately 50% of incoming prospective AI students possess little to no prior formal programming experience. LCSD#1 partners also highlighted the need to demystify AI for parents and prospective students.
+* **Curricular Action Taken by Trevor Swarm:**
+  * Designed the first semester with zero barrier-to-entry coursework: **`AIML 1010` (Introduction to AI)** and **`AIML 1020` (Ethics in AI)** use visual heuristics, conceptual reasoning, and ethical frameworks before students encounter formal syntax in **`COSC 1010`** and **`AIML 1030`**.
+
+### Finding 4: Articulation with the University of Wyoming
+* **Stakeholder Feedback:** Representatives from the UW School of Computing supported creating direct 2+2 transfer pathways so LCCC graduates can continue toward four-year degrees in Applied Computing, Computer Science, or Data Science.
+* **Curricular Action Taken by Trevor Swarm:**
+  * Coordinated with UW faculty to complete a comprehensive course crosswalk (`Artificial Intelligence AS Crosswalk.xlsx`), ensuring junior-level transfer status.

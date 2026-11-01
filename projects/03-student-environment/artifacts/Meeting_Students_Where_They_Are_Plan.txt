@@ -1,0 +1,13 @@
+Meeting students where they are:
+
+1.  Modality - reworked our COSC courses to be much more accessible in and async format
+	1.  Videos designed to be consumed at any time
+	2.  Resource that checks learning as you read
+	3.  Scaffolded PRIMM excercises that help students discover checkpoints that might otherwise be missed when not in person
+	4.  Implimented some excellent feedback from Sheridan Hanson concerning video length, quizzes, and general look and feel guidelines
+2.  Many on-ramps to weekly learning for students of varying level
+	1.  Advanced students can work ahead, have full access to the final and all materials, and help lead weekly discussions
+	2.  I lecture in my office hours on-demand whenever students need it, and also take requests for video calls at any time I am free, including nights and weekends
+	3.  I also use time when students are caught up to show more advanced topics including game programming, AI, and other emerging tech
+	4.  We feature many units that extend traditional COSC curriculum to real world introductory units.  This is often somehting COSC students don't experience until later in their college career.
+	
