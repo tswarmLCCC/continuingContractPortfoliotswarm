@@ -3,32 +3,31 @@
 > **Program:** Associate of Applied Science in Artificial Intelligence  
 > **Course Prefix:** AIML (Artificial Intelligence & Machine Learning) & COSC  
 > **Author & Lead Designer:** Trevor Swarm  
+> **Collaborators:** Program Director, Director of Assessment, STEM Leadership  
 > **Source Files:** `legacy/otherdocs/Artificial Intelligence Course Comptencies.docx`, `legacy/otherdocs/Comptency Mappings for Curriculog - May 1 Revisions.xlsx`, and `legacy/Project 1 Course Development/Artifacts/AIML Combined Syllabus 2025-2026.docx`  
 
 ---
 
 ## 1. Continuous Improvement: Program-Level Competency Evolution
 
-A hallmark of rigorous program review is the continuous refinement of learning outcomes based on institutional assessment feedback. Following initial state approval, I worked directly with the **Program Director** and **LCCC's Director of Assessment** to review the approved program competencies.
+Following the initial state approval of the AAS in Artificial Intelligence, we recognized that the original approved competencies were overly complex and contained significant redundancy across seven sprawling, multi-clause statements. 
 
-We recognized that the original approved competencies were overly complex and significantly redundant, making them less accessible and harder to assess consistently. Working together, we refined the competencies into **four simpler, more accessible, measurable Program Competencies** that capture the technical, strategic, ethical, and engineering scope of the degree. The team then systematically mapped each refined competency to course outcomes across different courses in the program. The Curriculog matrix below summarizes how the competencies are introduced, reinforced, and mastered across the course sequence.
+To ensure our program outcomes were transparent, robust, and assessment-ready, I worked directly with my **Program Director** and **LCCC's Director of Assessment** to refine those competencies into simpler, more accessible, and easier-to-understand benchmarks. Together, we synthesized the framework into **four core, measurable Program Competencies** that capture the complete technical, strategic, ethical, and engineering scope of the degree. Our team then systematically mapped these refined competencies directly to course outcomes across different courses in the program.
 
-Maintaining this curriculum also requires ongoing professional learning. I pursue formal development through Intel and the National Applied AI Consortium (NAAIC), supplemented by self-directed study, to keep pace with rapidly emerging AI, including large language models (LLMs) and, more recently, multi-level agentic AI instruction.
+### Comparison: Initial Approved Competencies vs. Refined Program Competencies
 
-### Comparison: Initial Draft vs. Refined Program Competencies
-
-| Original Approved Competencies (Complex & Redundant) | Refined Program Competencies (Assessment-Directed) | Curricular Focus & Application |
+| Initial Approved Competencies (Complex & Redundant) | Refined Program Competencies (Simpler & Measurable) | Curricular Focus & Course Outcome Mapping |
 | :--- | :--- | :--- |
 | *1. "Evaluate business problems using common artificial intelligence concepts..."*<br>*2. "Evaluate usefulness of AI solutions with statistical analysis..."* | **1. Technical Execution:**<br>Evaluate machine learning and deep learning methodologies, and implement efficient models using appropriate programming frameworks and statistical analysis. | Core algorithmic modeling, Python frameworks (PyTorch/Scikit-Learn), regression/classification, neural architectures. |
 | *3. "Solve social and business issues by applying AI project development principles..."*<br>*4. "Create AI solutions using appropriate programming languages..."* | **2. Strategic Application:**<br>Analyze organizational requirements to engineer effective solutions through the AI development lifecycle. | Problem decomposition, business intelligence, feasibility studies, end-to-end client deliverables. |
 | *5. "Communicate in varied settings in a culturally responsive manner..."*<br>*6. "Create AI solutions in collaboration with diverse teams..."*<br>*7. "Evaluate issues of bias, culture, environment, ethics, regulations, and professional expectations..."* | **3. Responsible AI Practice:**<br>Assess the ethical, cultural, and regulatory implications of artificial intelligence systems to actively mitigate bias and ethical risks. | Bias mitigation, data sovereignty, privacy governance, ACM Code of Ethics compliance, oral/written technical defense. |
-| *(Originally split across disparate general IT and database requirements)* | **4. Data Engineering:**<br>Design and evaluate data pipelines to prepare, clean, and govern datasets for machine learning applications. | Relational SQL, NoSQL, cloud ETL pipelines, data schema validation, quality assurance. |
+| *(Originally fragmented across disparate general IT and database electives)* | **4. Data Engineering:**<br>Design and evaluate data pipelines to prepare, clean, and govern datasets for machine learning applications. | Relational SQL, NoSQL, cloud ETL pipelines, data schema validation, quality assurance. |
 
 ---
 
 ## 2. Curriculog Competency Scaffolding Matrix (I &rarr; R &rarr; M)
 
-To ensure systematic learning progression, each course in the curriculum is formally mapped in Curriculog to indicate whether a competency is **Introduced (I)**, **Reinforced (R)**, or **Mastered (M)**:
+Working with the Program Director and Director of Assessment, our team systematically mapped these refined competencies directly to course outcomes across the curriculum in Curriculog to indicate whether a competency is **Introduced (I)**, **Reinforced (R)**, or **Mastered (M)**:
 
 | Course Prefix & Title | Technical Execution | Strategic Application | Responsible AI Practice | Data Engineering |
 | :--- | :---: | :---: | :---: | :---: |
@@ -109,3 +108,10 @@ To ensure systematic learning progression, each course in the curriculum is form
   * Apply appropriate storage and processing techniques (relational SQL, NoSQL, data lakes) for specific engineering challenges.
   * Assess the performance, scalability, and latency of a data processing pipeline.
   * Resolve data quality, schema integrity, and governance issues within production data systems.
+
+---
+
+## 4. Planned Changes, IT Pathway Transition & AI Currency
+
+* **Advisory Committee Consolidation & Pathway Transition:** While the program will continue leveraging strong advisory oversight, our AI Professional Advisory Committee will be formally merged and combined with the **Information Technology (IT) Pathway Professional Advisory Committee**. This consolidation directly aligns with the program transitioning administratively and academically from the School of Arts and Sciences over to the IT Pathway, creating a unified advisory pipeline for tech workforce education in Cheyenne.
+* **Curriculum Sustainability & Emerging AI Currency:** Maintaining relevant technical curricula in artificial intelligence requires continuous adaptation. Moving forward, program evolution will rely on ongoing alignment with this unified IT advisory board, coupled with my continuous personal professional development through **Intel** and the **National Applied AI Consortium (NAAIC)**. By staying ahead of rapidly accelerating AI developments—specifically Large Language Models (LLMs) and, more recently, multi-level agentic AI instruction—we ensure the curriculum remains a living, state-of-the-art workforce credential.
