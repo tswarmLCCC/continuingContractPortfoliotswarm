@@ -2,6 +2,13 @@
 
 > **Used in:** COSC 1010, COSC 1030, COSC 2409  
 > **Instructor:** Trevor Swarm  
+> **Original Document:** 📥 **[Download Diagnostic Rubric & Interview Guide (.docx)](Mini_Portfolio_Questions_Rubric.docx)**  
+> **Source Archive:** `legacy/Project 2_ Student-Centered Instruction/Artifacts/Mini Portfolio 1 Questions.docx`  
+
+---
+
+> [!TIP]
+> **Primary Source Document:** The official diagnostic evaluation rubric and verbal question bank are available for download: **[Mini_Portfolio_Questions_Rubric.docx](Mini_Portfolio_Questions_Rubric.docx)**.
 
 ---
 
@@ -24,3 +31,9 @@ During the live code clinic or video walkthrough, students are prompted to addre
 2. *"Walk me through the lifecycle of this loop variable. When does it initialize, and when is it garbage-collected?"*
 3. *"Why did you choose a dictionary/hash map here instead of a nested list? What is the trade-off in lookup time?"*
 4. *"If a user inputs negative numbers or text into this prompt, how does your program recover?"*
+
+---
+
+## 3. Primary Document Verification
+* **Download Scoring Rubric & Question Bank:** 📥 [Mini_Portfolio_Questions_Rubric.docx](Mini_Portfolio_Questions_Rubric.docx)
+* **Return to Project Portfolio:** ⬅️ [Project 2 Rationale & Analysis](../README.md)

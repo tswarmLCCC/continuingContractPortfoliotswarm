@@ -3,6 +3,13 @@
 > **Courses:** COSC 1010 (Intro to CS), COSC 1030 (Computer Science I), COSC 2409 (Python)  
 > **Instructor:** Trevor Swarm  
 > **Modality:** Online Asynchronous & Hybrid  
+> **Original Document:** 📥 **[Download Original Assignment Prompt (.docx)](Mini_Programming_Portfolio_Prompt.docx)**  
+> **Source Archive:** `legacy/Project 2_ Student-Centered Instruction/Artifacts/Mini Programming Portfolio.docx`  
+
+---
+
+> [!TIP]
+> **Primary Source Document:** The original classroom assignment prompt distributed to students in Canvas is available for direct download: **[Mini_Programming_Portfolio_Prompt.docx](Mini_Programming_Portfolio_Prompt.docx)**.
 
 ---
 
@@ -47,3 +54,9 @@ flowchart TD
 
 * **Encouraged:** You are strongly encouraged to collaborate with peers, consult documentation, utilize Google, and experiment with AI coding tools (e.g. ChatGPT, GitHub Copilot).
 * **The Rule of Defense:** If you include a line of code or an algorithm in your portfolio, **you must be able to explain how it works in your own words.** If you cannot explain why a line exists, you do not yet own that knowledge.
+
+---
+
+## 4. Primary Document Verification
+* **Download Classroom Prompt:** 📥 [Mini_Programming_Portfolio_Prompt.docx](Mini_Programming_Portfolio_Prompt.docx)
+* **Return to Project Portfolio:** ⬅️ [Project 2 Rationale & Analysis](../README.md)

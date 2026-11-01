@@ -5,6 +5,13 @@
 > **Faculty Lead:** Trevor Swarm  
 > **Target Programs:** UW B.S. in Applied Computing, UW B.S. in Computer Science, UW B.S. in Data Science  
 > **Source Data:** `legacy/Project 1 Course Development/Artifacts/Artificial Intelligence AS Crosswalk.xlsx`  
+> **Original Document:** 📊 **[Download Articulation Matrix Worksheet (.xlsx)](Artificial_Intelligence_AS_Crosswalk.xlsx)**  
+> **Source Archive:** `legacy/Project 1 Course Development/Artifacts/Artificial Intelligence AS Crosswalk.xlsx`  
+
+---
+
+> [!TIP]
+> **Primary Source Document:** The original 2+2 transfer evaluation spreadsheet modeling degree crosswalks with the University of Wyoming School of Computing is available for download: **[Artificial_Intelligence_AS_Crosswalk.xlsx](Artificial_Intelligence_AS_Crosswalk.xlsx)**.
 
 ---
 
@@ -55,3 +62,9 @@ flowchart LR
 
 * **Statewide System Alignment:** Explored cross-institutional alignments between Wyoming's largest community college and the university computing programs.
 * **Curricular Rigor Validation:** Demonstrated that LCCC's foundational coursework—spanning C++ programming, data structures, and data engineering—matches the rigorous standards of four-year university computing curricula.
+
+---
+
+## 4. Primary Document Verification
+* **Download Articulation Spreadsheet:** 📊 [Artificial_Intelligence_AS_Crosswalk.xlsx](Artificial_Intelligence_AS_Crosswalk.xlsx)
+* **Return to Project Portfolio:** ⬅️ [Project 4 Rationale & Analysis](../README.md)

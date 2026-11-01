@@ -6,7 +6,17 @@
 > * **Industry & State Partners:** Erin Moore (Gannett Peak Technologies), Eric Trowbridge (Blue Federal Credit Union), Carmen Benitez (DOCA Healthcare AI), Chad Marley (LCCC Chief Technology Officer), Drew Dilley (State of Wyoming Enterprise Technology Services - ETS)  
 > * **Academic Partners:** Dr. Raya Hegeman (University of Wyoming School of Computing), Julie Calkins (Laramie County School District #1)  
 > * **LCCC STEM Leadership:** Bryan Wilson (Dean/Director), Trent Morrell (STEM Pathway Coordinator), Trevor Swarm (Faculty Lead & Facilitator)  
-> **Source Files:** `legacy/Project 1 Course Development/2025 STEM-AI PAC Meeting Recap.docx`, `legacy/Project 1 Course Development/AI Advisory Meeting Minutes-1.4.24.docx`, and `legacy/Unfiled/PAC Meeting Transcription copy-paste.docx`  
+> **Original Documents:**  
+> * 📥 **[Download 2025 STEM-AI PAC Meeting Recap (.docx)](2025_STEM_AI_PAC_Meeting_Recap.docx)**  
+> * 📥 **[Download 2024 AI Advisory Meeting Minutes (.docx)](AI_Advisory_Meeting_Minutes_1_4_24.docx)**  
+> **Source Archives:** `legacy/Project 1 Course Development/2025 STEM-AI PAC Meeting Recap.docx`, `legacy/Project 1 Course Development/AI Advisory Meeting Minutes-1.4.24.docx`, and `legacy/Unfiled/PAC Meeting Transcription copy-paste.docx`  
+
+---
+
+> [!TIP]
+> **Primary Source Documents:** The full verified advisory meeting minutes and transcripts documenting industry stakeholder engagement and curricular feedback are available for download:
+> * 📥 **[2025_STEM_AI_PAC_Meeting_Recap.docx](2025_STEM_AI_PAC_Meeting_Recap.docx)** — 2025 PAC review and curricular action items.
+> * 📥 **[AI_Advisory_Meeting_Minutes_1_4_24.docx](AI_Advisory_Meeting_Minutes_1_4_24.docx)** — Inaugural 2024 program advisory meeting minutes.
 
 ---
 
@@ -39,3 +49,10 @@ The Artificial Intelligence Advisory Group was convened to guide the curriculum 
 * **Stakeholder Feedback:** Dr. Raya Hegeman from the UW School of Computing supported exploring 2+2 transfer pathways for LCCC students interested in four-year degrees in Applied Computing, Computer Science, or Data Science.
 * **Curricular Action Taken by Trevor Swarm:**
   * Coordinated with Dr. Raya Hegeman and UW faculty to draft an initial course crosswalk (`Artificial Intelligence AS Crosswalk.xlsx`) mapping foundational computing credits.
+
+---
+
+## 3. Primary Document Verification
+* **Download 2025 PAC Meeting Recap:** 📥 [2025_STEM_AI_PAC_Meeting_Recap.docx](2025_STEM_AI_PAC_Meeting_Recap.docx)
+* **Download 2024 Advisory Minutes:** 📥 [AI_Advisory_Meeting_Minutes_1_4_24.docx](AI_Advisory_Meeting_Minutes_1_4_24.docx)
+* **Return to Project Portfolio:** ⬅️ [Project 1 Rationale & Analysis](../README.md)

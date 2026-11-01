@@ -2,6 +2,17 @@
 
 > **Evidence Group:** Student Voices & Structural Advocacy  
 > **Instructor:** Trevor Swarm  
+> **Original Documents:**  
+> * 📥 **[Download Student Feedback Artifacts (.docx)](Sample_Portfolio_Feedback.docx)**  
+> * 📄 **[Download Master Course Syllabus (.docx)](COSC_2409_Python_Syllabus.docx)**  
+> **Source Archive:** `legacy/Project 2_ Student-Centered Instruction/Artifacts/Portfolio Feedback.docx`  
+
+---
+
+> [!TIP]
+> **Primary Source Documents:** The authentic student evaluation excerpts, course syllabus, and independent study administrative records are available for download:
+> * 📥 **[Sample_Portfolio_Feedback.docx](Sample_Portfolio_Feedback.docx)** — Student feedback excerpts and evaluation records.
+> * 📄 **[COSC_2409_Python_Syllabus.docx](COSC_2409_Python_Syllabus.docx)** — Approved syllabus demonstrating portfolio integration.
 
 ---
 
@@ -28,3 +39,10 @@ Rather than requiring the students to delay graduation by a full academic year, 
 2. Submitted formal independent study paperwork through the department chair and academic dean.
 3. Conducted weekly 1-on-1 code reviews and lab mentorship throughout the term at no additional cost to the department.
 4. Guaranteed that all three students completed their degree requirements and graduated on schedule.
+
+---
+
+## 3. Primary Document Verification
+* **Download Student Feedback Artifact:** 📥 [Sample_Portfolio_Feedback.docx](Sample_Portfolio_Feedback.docx)
+* **Download Master Course Syllabus:** 📄 [COSC_2409_Python_Syllabus.docx](COSC_2409_Python_Syllabus.docx)
+* **Return to Project Portfolio:** ⬅️ [Project 2 Rationale & Analysis](../README.md)

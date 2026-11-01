@@ -4,6 +4,13 @@
 > **Industry Partners:** Intel Corporation & Dell Technologies  
 > **Faculty Lead:** Trevor Swarm, LCCC Computer Science & Artificial Intelligence  
 > **Period:** 2024 – 2026  
+> **Original Credential Document:** 🏅 **[Download Official Intel Lead Facilitator Badge (.pdf)](Intel_Lead_Facilitator_AI_for_Workforce_Badge.pdf)**  
+> **Source Archive:** `legacy/otherdocs/Lead_Facilitator__AI_for_Workforce_Program_Badge20231129-34-cdq3bp.pdf`  
+
+---
+
+> [!TIP]
+> **Primary Source Credential:** The verified Lead Facilitator certificate badge issued by Intel and Dell Technologies is available for inspection: **[Intel_Lead_Facilitator_AI_for_Workforce_Badge.pdf](Intel_Lead_Facilitator_AI_for_Workforce_Badge.pdf)**.
 
 ---
 
@@ -34,3 +41,9 @@ Through this initiative, I participated in technical training sprints focused on
 
 * **Zero-Cost High-Value Toolsets:** Students gain hands-on experience with enterprise-grade open-source toolkits (OpenVINO, Scikit-Learn, OpenCV) without expensive licensing fees.
 * **Workforce Credibility:** Curriculum alignment allows students to demonstrate proficiency against competencies vetted by international technology leaders.
+
+---
+
+## 4. Primary Document Verification
+* **Download Intel Lead Facilitator Credential:** 🏅 [Intel_Lead_Facilitator_AI_for_Workforce_Badge.pdf](Intel_Lead_Facilitator_AI_for_Workforce_Badge.pdf)
+* **Return to Project Portfolio:** ⬅️ [Project 4 Rationale & Analysis](../README.md)
