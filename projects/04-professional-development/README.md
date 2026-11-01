@@ -7,9 +7,9 @@
 
 ## Abstract
 
-This project showcases my continuous engagement with industry leaders, national consortia, and university partners to align LCCC’s technical education with emerging workforce demands. In rapidly accelerating disciplines like Artificial Intelligence and Computer Science, professional development is an essential, ongoing process for maintaining curriculum currency. To ensure our curriculum reflects modern enterprise standards, I completed formal technical training through Intel and Dell's "AI for the Workforce" initiative, earning credentialed Lead Facilitator status. Furthermore, through active engagement with the National Applied AI Consortium (NAAIC) and rigorous self-directed technical sprints, I continuously maintain currency in emerging paradigms—specifically Large Language Models (LLMs) and, more recently, multi-level agentic AI instruction. Simultaneously, I coordinated with faculty at the University of Wyoming's (UW) School of Computing to negotiate comprehensive 2+2 articulation agreements, establishing guaranteed transfer pathways for community college graduates. This project exhibits integration matrices, articulation crosswalks, and verified technical credentials. Together, they demonstrate how ongoing professional development elevates instructional rigor and equips LCCC students with competitive, high-demand workforce skills.
+This project showcases my continuous engagement with industry leaders, national consortia, and university partners to align LCCC’s technical education with emerging workforce demands. In rapidly accelerating disciplines like Artificial Intelligence and Computer Science, professional development is an essential, ongoing process for maintaining curriculum currency. To ensure our curriculum reflects modern enterprise standards, I completed formal technical training through Intel and Dell's "AI for the Workforce" initiative, earning credentialed Lead Facilitator status. Furthermore, through active engagement with the National Applied AI Consortium (NAAIC) and rigorous self-directed technical sprints, I continuously maintain currency in emerging paradigms—specifically Large Language Models (LLMs) and, more recently, multi-level agentic AI instruction. Simultaneously, during program development, I coordinated with faculty at the University of Wyoming's (UW) School of Computing to design comprehensive 2+2 articulation crosswalks and explore transfer pathways for community college graduates. This project exhibits integration matrices, articulation crosswalks, and verified technical credentials. Together, they demonstrate how ongoing professional development elevates instructional rigor and equips LCCC students with competitive, high-demand workforce skills.
 
-*(Abstract Word Count: 163 words)*
+*(Abstract Word Count: 165 words)*
 
 ---
 
@@ -21,8 +21,8 @@ This project showcases my continuous engagement with industry leaders, national 
 * **Artifact Reference:** [Artifact 4.1: Intel & Dell AI for the Workforce Integration Matrix](artifacts/Artifact_4_1_Intel_Dell_AI_Workforce.md)
 
 ### Artifact 2: University of Wyoming School of Computing Articulation Crosswalk
-* **Context & Nature:** Formal transfer agreement worksheets, course equivalence mappings, and collaborative correspondence with UW School of Computing faculty leadership.
-* **Layman Description:** To ensure our students can transfer smoothly into four-year bachelor's degree programs, I collaborated with the University of Wyoming to crosswalk our 2000-level courses (including Computer Science II and Data Engineering). This document proves that our community college curriculum satisfies university prerequisites without credit loss.
+* **Context & Nature:** Articulation worksheets, course equivalence mappings, and collaborative correspondence with UW School of Computing faculty leadership.
+* **Layman Description:** To explore transfer pathways into four-year bachelor's degree programs, I collaborated with the University of Wyoming to crosswalk our 2000-level courses (including Computer Science II and Data Engineering). This document demonstrates how our community college curriculum was mapped to university prerequisites and validated against upper-division standards.
 * **Artifact Reference:** [Artifact 4.2: UW School of Computing Articulation Crosswalk](artifacts/Artifact_4_2_UW_Articulation_Crosswalk.md)
 
 ### Artifact 3: Technical Professional Development & Applied Learning Log
@@ -47,4 +47,4 @@ The primary takeaway from collaborating with industry and university partners is
 Looking forward, I plan to expand our agentic AI curriculum modules, introducing students to multi-agent architectures and automated code-generation workflows. Furthermore, as our program transitions into the IT Pathway, I will continue collaborating with our unified advisory board and industry partners to invite guest software engineers to review student capstone projects.
 
 ### 5. Broader Institutional and Community Impact
-My professional collaborations have positioned LCCC as an active contributor to Wyoming's statewide technology ecosystem. By building seamless transfer agreements with UW and aligning with global industry standards through Intel and the NAAIC, we ensure that LCCC students receive an education that is recognized and respected locally, regionally, and nationally.
+My professional collaborations have positioned LCCC as an active contributor to Wyoming's statewide technology ecosystem. By designing rigorous curriculum crosswalks and aligning with global industry standards through Intel and the NAAIC, we ensure that LCCC students receive an education that is recognized and respected locally, regionally, and nationally.

@@ -10,9 +10,9 @@
 
 ## 1. Context & Purpose
 
-A critical responsibility of two-year college technical faculty is ensuring that associate degree graduates have transparent, guaranteed transfer pathways to four-year universities. Working directly with leadership and faculty in the University of Wyoming School of Computing, I developed a comprehensive course-by-course articulation crosswalk.
+During the development and review of LCCC's computing curricula, I collaborated with university peers to explore potential four-year transfer pathways. Working directly with faculty and leadership in the University of Wyoming School of Computing, I drafted a comprehensive course-by-course articulation crosswalk.
 
-This crosswalk verifies that students completing the LCCC Associate of Applied Science or Associate of Science in Artificial Intelligence enter UW with junior-level standing and zero duplicate coursework.
+This crosswalk modeled transfer pathways to evaluate how foundational credits earned in LCCC's computing programs could align with upper-division university bachelor's degrees.
 
 ---
 
@@ -35,7 +35,7 @@ flowchart LR
         U3["B.S. in Data Science (Interdisciplinary)"]
     end
 
-    LCCC -->|Guaranteed Junior Standing| UW
+    LCCC -->|Course Alignment Mapping| UW
 ```
 
 ### Direct Course Equivalencies
@@ -51,7 +51,7 @@ flowchart LR
 
 ---
 
-## 3. Collaborative Significance
+## 3. Curricular Significance
 
-* **Statewide System Alignment:** Eliminates friction between Wyoming's largest community college and the state's sole four-year public research university.
-* **Student Equity:** Allows Wyoming students to complete affordable foundational credits in Cheyenne before transferring smoothly to Laramie, reducing overall student debt.
+* **Statewide System Alignment:** Explored cross-institutional alignments between Wyoming's largest community college and the university computing programs.
+* **Curricular Rigor Validation:** Demonstrated that LCCC's foundational coursework—spanning C++ programming, data structures, and data engineering—matches the rigorous standards of four-year university computing curricula.

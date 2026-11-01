@@ -35,7 +35,7 @@ The Artificial Intelligence Advisory Group was convened to guide the curriculum 
 * **Curricular Action Taken by Trevor Swarm:**
   * Designed the first semester with zero barrier-to-entry coursework: **`AIML 1010` (Introduction to AI)** and **`AIML 1020` (Ethics in AI)** use visual heuristics, conceptual reasoning, and ethical frameworks before students encounter formal syntax in **`COSC 1010`** and **`AIML 1030`**.
 
-### Finding 4: Articulation with the University of Wyoming
-* **Stakeholder Feedback:** Dr. Raya Hegeman from the UW School of Computing supported creating direct 2+2 transfer pathways so LCCC graduates can continue toward four-year degrees in Applied Computing, Computer Science, or Data Science.
+### Finding 4: Articulation Exploration with the University of Wyoming
+* **Stakeholder Feedback:** Dr. Raya Hegeman from the UW School of Computing supported exploring 2+2 transfer pathways for LCCC students interested in four-year degrees in Applied Computing, Computer Science, or Data Science.
 * **Curricular Action Taken by Trevor Swarm:**
-  * Coordinated with Dr. Raya Hegeman and UW faculty to complete a comprehensive course crosswalk (`Artificial Intelligence AS Crosswalk.xlsx`), ensuring junior-level transfer status.
+  * Coordinated with Dr. Raya Hegeman and UW faculty to draft an initial course crosswalk (`Artificial Intelligence AS Crosswalk.xlsx`) mapping foundational computing credits.
