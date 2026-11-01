@@ -7,16 +7,9 @@
 > * **Academic Partners:** Dr. Raya Hegeman (University of Wyoming School of Computing), Julie Calkins (Laramie County School District #1)  
 > * **LCCC STEM Leadership:** Bryan Wilson (Dean/Director), Trent Morrell (STEM Pathway Coordinator), Trevor Swarm (Faculty Lead & Facilitator)  
 > **Original Documents:**  
-> * 📥 **[Download 2025 STEM-AI PAC Meeting Recap (.docx)](2025_STEM_AI_PAC_Meeting_Recap.docx)**  
-> * 📥 **[Download 2024 AI Advisory Meeting Minutes (.docx)](AI_Advisory_Meeting_Minutes_1_4_24.docx)**  
+> * **[Download 2025 STEM-AI PAC Meeting Recap (.docx)](2025_STEM_AI_PAC_Meeting_Recap.docx)**  
+> * **[Download 2024 AI Advisory Meeting Minutes (.docx)](AI_Advisory_Meeting_Minutes_1_4_24.docx)**  
 > **Source Archives:** `legacy/Project 1 Course Development/2025 STEM-AI PAC Meeting Recap.docx`, `legacy/Project 1 Course Development/AI Advisory Meeting Minutes-1.4.24.docx`, and `legacy/Unfiled/PAC Meeting Transcription copy-paste.docx`  
-
----
-
-> [!TIP]
-> **Primary Source Documents:** The full verified advisory meeting minutes and transcripts documenting industry stakeholder engagement and curricular feedback are available for download:
-> * 📥 **[2025_STEM_AI_PAC_Meeting_Recap.docx](2025_STEM_AI_PAC_Meeting_Recap.docx)** — 2025 PAC review and curricular action items.
-> * 📥 **[AI_Advisory_Meeting_Minutes_1_4_24.docx](AI_Advisory_Meeting_Minutes_1_4_24.docx)** — Inaugural 2024 program advisory meeting minutes.
 
 ---
 
@@ -53,6 +46,6 @@ The Artificial Intelligence Advisory Group was convened to guide the curriculum 
 ---
 
 ## 3. Primary Document Verification
-* **Download 2025 PAC Meeting Recap:** 📥 [2025_STEM_AI_PAC_Meeting_Recap.docx](2025_STEM_AI_PAC_Meeting_Recap.docx)
-* **Download 2024 Advisory Minutes:** 📥 [AI_Advisory_Meeting_Minutes_1_4_24.docx](AI_Advisory_Meeting_Minutes_1_4_24.docx)
-* **Return to Project Portfolio:** ⬅️ [Project 1 Rationale & Analysis](../README.md)
+* **Download 2025 PAC Meeting Recap:** [2025_STEM_AI_PAC_Meeting_Recap.docx](2025_STEM_AI_PAC_Meeting_Recap.docx)
+* **Download 2024 Advisory Minutes:** [AI_Advisory_Meeting_Minutes_1_4_24.docx](AI_Advisory_Meeting_Minutes_1_4_24.docx)
+* **Return to Project Portfolio:** [Project 1 Rationale & Analysis](../README.md)

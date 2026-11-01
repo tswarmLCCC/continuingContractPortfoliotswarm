@@ -2,13 +2,8 @@
 
 > **Used in:** COSC 1010, COSC 1030, COSC 2409  
 > **Instructor:** Trevor Swarm  
-> **Original Document:** 📥 **[Download Diagnostic Rubric & Interview Guide (.docx)](Mini_Portfolio_Questions_Rubric.docx)**  
+> **Original Document:** **[Download Diagnostic Rubric & Interview Guide (.docx)](Mini_Portfolio_Questions_Rubric.docx)**  
 > **Source Archive:** `legacy/Project 2_ Student-Centered Instruction/Artifacts/Mini Portfolio 1 Questions.docx`  
-
----
-
-> [!TIP]
-> **Primary Source Document:** The official diagnostic evaluation rubric and verbal question bank are available for download: **[Mini_Portfolio_Questions_Rubric.docx](Mini_Portfolio_Questions_Rubric.docx)**.
 
 ---
 
@@ -35,5 +30,5 @@ During the live code clinic or video walkthrough, students are prompted to addre
 ---
 
 ## 3. Primary Document Verification
-* **Download Scoring Rubric & Question Bank:** 📥 [Mini_Portfolio_Questions_Rubric.docx](Mini_Portfolio_Questions_Rubric.docx)
-* **Return to Project Portfolio:** ⬅️ [Project 2 Rationale & Analysis](../README.md)
+* **Download Scoring Rubric & Question Bank:** [Mini_Portfolio_Questions_Rubric.docx](Mini_Portfolio_Questions_Rubric.docx)
+* **Return to Project Portfolio:** [Project 2 Rationale & Analysis](../README.md)

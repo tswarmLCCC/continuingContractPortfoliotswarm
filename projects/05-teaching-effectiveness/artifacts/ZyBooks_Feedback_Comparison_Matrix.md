@@ -3,12 +3,7 @@
 > **Focus:** Responsive Teaching & Curricular Evolution  
 > **Target Courses:** COSC 1010, COSC 1030, COSC 2409  
 > **Instructor:** Trevor Swarm  
-> **Related Data:** 📊 **[View Longitudinal Grade Dataset](LCCC_Grade_Table_Data_2024_2025.md)** | **[Download (.csv)](LCCC_Grade_Table_Data_2024_2025.csv)**  
-
----
-
-> [!TIP]
-> **Instructional Data Alignment:** This qualitative intervention framework pairs directly with the quantitative grade table data documented in **[LCCC_Grade_Table_Data_2024_2025.md](LCCC_Grade_Table_Data_2024_2025.md)** (Download: **[LCCC_Grade_Table_Data_2024_2025.csv](LCCC_Grade_Table_Data_2024_2025.csv)**).
+> **Related Data:** **[View Longitudinal Grade Dataset](LCCC_Grade_Table_Data_2024_2025.md)** | **[Download (.csv)](LCCC_Grade_Table_Data_2024_2025.csv)**  
 
 ---
 
@@ -26,6 +21,6 @@ The table below contrasts constructive student critique regarding third-party co
 ---
 
 ## 2. Verification & Navigation
-* **View Longitudinal Performance Data:** 📊 [Multi-Semester Course Success Dataset](LCCC_Grade_Table_Data_2024_2025.md)
-* **Download Raw Grade Dataset:** 📥 [LCCC_Grade_Table_Data_2024_2025.csv](LCCC_Grade_Table_Data_2024_2025.csv)
-* **Return to Project Portfolio:** ⬅️ [Project 5 Rationale & Analysis](../README.md)
+* **View Longitudinal Performance Data:** [Multi-Semester Course Success Dataset](LCCC_Grade_Table_Data_2024_2025.md)
+* **Download Raw Grade Dataset:** [LCCC_Grade_Table_Data_2024_2025.csv](LCCC_Grade_Table_Data_2024_2025.csv)
+* **Return to Project Portfolio:** [Project 5 Rationale & Analysis](../README.md)

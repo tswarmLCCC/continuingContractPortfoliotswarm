@@ -3,13 +3,8 @@
 > **Courses:** COSC 1010 (Intro to CS), COSC 1030 (Computer Science I), COSC 2409 (Python)  
 > **Instructor:** Trevor Swarm  
 > **Modality:** Online Asynchronous & Hybrid  
-> **Original Document:** 📥 **[Download Original Assignment Prompt (.docx)](Mini_Programming_Portfolio_Prompt.docx)**  
+> **Original Document:** **[Download Original Assignment Prompt (.docx)](Mini_Programming_Portfolio_Prompt.docx)**  
 > **Source Archive:** `legacy/Project 2_ Student-Centered Instruction/Artifacts/Mini Programming Portfolio.docx`  
-
----
-
-> [!TIP]
-> **Primary Source Document:** The original classroom assignment prompt distributed to students in Canvas is available for direct download: **[Mini_Programming_Portfolio_Prompt.docx](Mini_Programming_Portfolio_Prompt.docx)**.
 
 ---
 
@@ -58,5 +53,5 @@ flowchart TD
 ---
 
 ## 4. Primary Document Verification
-* **Download Classroom Prompt:** 📥 [Mini_Programming_Portfolio_Prompt.docx](Mini_Programming_Portfolio_Prompt.docx)
-* **Return to Project Portfolio:** ⬅️ [Project 2 Rationale & Analysis](../README.md)
+* **Download Classroom Prompt:** [Mini_Programming_Portfolio_Prompt.docx](Mini_Programming_Portfolio_Prompt.docx)
+* **Return to Project Portfolio:** [Project 2 Rationale & Analysis](../README.md)

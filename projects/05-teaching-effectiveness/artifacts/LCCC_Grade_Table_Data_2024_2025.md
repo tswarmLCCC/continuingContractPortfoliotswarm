@@ -3,13 +3,8 @@
 > **Data Source:** LCCC Institutional Research (IR) ClassPulse and Grade Submission Records  
 > **Reporting Period:** Spring 2024 – Fall 2025  
 > **Instructor:** Trevor Swarm  
-> **Original Dataset:** 📊 **[Download Longitudinal Grade Distribution Dataset (.csv)](LCCC_Grade_Table_Data_2024_2025.csv)**  
+> **Original Dataset:** **[Download Longitudinal Grade Distribution Dataset (.csv)](LCCC_Grade_Table_Data_2024_2025.csv)**  
 > **Source Archive:** `legacy/Project 3_ Promoting a Welcoming and Inclusive/All Evals/Grade Table_data.csv`  
-
----
-
-> [!TIP]
-> **Primary Source Dataset:** The raw multi-semester grade and retention data from LCCC Institutional Research is available for download: **[LCCC_Grade_Table_Data_2024_2025.csv](LCCC_Grade_Table_Data_2024_2025.csv)**.
 
 ---
 
@@ -44,5 +39,5 @@
 ---
 
 ## 3. Primary Document Verification
-* **Download Raw Longitudinal Grade Data:** 📊 [LCCC_Grade_Table_Data_2024_2025.csv](LCCC_Grade_Table_Data_2024_2025.csv)
-* **Return to Project Portfolio:** ⬅️ [Project 5 Rationale & Analysis](../README.md)
+* **Download Raw Longitudinal Grade Data:** [LCCC_Grade_Table_Data_2024_2025.csv](LCCC_Grade_Table_Data_2024_2025.csv)
+* **Return to Project Portfolio:** [Project 5 Rationale & Analysis](../README.md)

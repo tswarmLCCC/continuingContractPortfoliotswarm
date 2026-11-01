@@ -5,18 +5,10 @@
 > **Author & Lead Designer:** Trevor Swarm  
 > **Collaborators:** Program Director, Director of Assessment, STEM Leadership  
 > **Original Documents:**  
-> * 📥 **[Download Master AIML Syllabi (.docx)](AIML_Combined_Syllabus_2025_2026.docx)**  
-> * 📊 **[Download Curriculog Competency Revision Matrix (.xlsx)](Curriculog_Competency_Mappings_Revisions.xlsx)**  
-> * 📄 **[Download Revised Course Competencies (.docx)](Artificial_Intelligence_Course_Competencies_Revised.docx)**  
+> * **[Download Master AIML Syllabi (.docx)](AIML_Combined_Syllabus_2025_2026.docx)**  
+> * **[Download Curriculog Competency Revision Matrix (.xlsx)](Curriculog_Competency_Mappings_Revisions.xlsx)**  
+> * **[Download Revised Course Competencies (.docx)](Artificial_Intelligence_Course_Competencies_Revised.docx)**  
 > **Source Archives:** `legacy/otherdocs/Artificial Intelligence Course Comptencies.docx`, `legacy/otherdocs/Comptency Mappings for Curriculog - May 1 Revisions.xlsx`, and `legacy/Project 1 Course Development/Artifacts/AIML Combined Syllabus 2025-2026.docx`  
-
----
-
-> [!TIP]
-> **Primary Source Documents:** The full curriculum specifications, Curriculog alignment matrices, and revised competencies are available for download:
-> * 📥 **[AIML_Combined_Syllabus_2025_2026.docx](AIML_Combined_Syllabus_2025_2026.docx)** — Complete 8-course syllabi and assignments.
-> * 📊 **[Curriculog_Competency_Mappings_Revisions.xlsx](Curriculog_Competency_Mappings_Revisions.xlsx)** — Curriculog I-R-M mapping matrix.
-> * 📄 **[Artificial_Intelligence_Course_Competencies_Revised.docx](Artificial_Intelligence_Course_Competencies_Revised.docx)** — Refined assessment competencies.
 
 ---
 
@@ -131,7 +123,7 @@ Working with the Program Director and Director of Assessment, our team systemati
 ---
 
 ## 5. Primary Document Verification
-* **Download Master Syllabi:** 📥 [AIML_Combined_Syllabus_2025_2026.docx](AIML_Combined_Syllabus_2025_2026.docx)
-* **Download Curriculog Mapping Matrix:** 📊 [Curriculog_Competency_Mappings_Revisions.xlsx](Curriculog_Competency_Mappings_Revisions.xlsx)
-* **Download Revised Program Competencies:** 📄 [Artificial_Intelligence_Course_Competencies_Revised.docx](Artificial_Intelligence_Course_Competencies_Revised.docx)
-* **Return to Project Portfolio:** ⬅️ [Project 1 Rationale & Analysis](../README.md)
+* **Download Master Syllabi:** [AIML_Combined_Syllabus_2025_2026.docx](AIML_Combined_Syllabus_2025_2026.docx)
+* **Download Curriculog Mapping Matrix:** [Curriculog_Competency_Mappings_Revisions.xlsx](Curriculog_Competency_Mappings_Revisions.xlsx)
+* **Download Revised Program Competencies:** [Artificial_Intelligence_Course_Competencies_Revised.docx](Artificial_Intelligence_Course_Competencies_Revised.docx)
+* **Return to Project Portfolio:** [Project 1 Rationale & Analysis](../README.md)

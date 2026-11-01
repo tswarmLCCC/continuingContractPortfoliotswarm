@@ -2,13 +2,8 @@
 
 > **Author:** Trevor Swarm  
 > **Target Courses:** COSC 1010, COSC 2409, AIML 1010  
-> **Original Document:** 📝 **[Download Pedagogical Action Plan Notes (.txt)](Meeting_Students_Where_They_Are_Plan.txt)**  
+> **Original Document:** **[Download Pedagogical Action Plan Notes (.txt)](Meeting_Students_Where_They_Are_Plan.txt)**  
 > **Source Archive:** `legacy/supportDocs/meetingStudentsWhereTheyAre.txt`  
-
----
-
-> [!TIP]
-> **Primary Source Document:** The original working notes and pedagogical reflections on student-centered modality adaptations are available for download: **[Meeting_Students_Where_They_Are_Plan.txt](Meeting_Students_Where_They_Are_Plan.txt)**.
 
 ---
 
@@ -49,5 +44,5 @@ flowchart LR
 ---
 
 ## 4. Primary Document Verification
-* **Download Working Action Plan:** 📝 [Meeting_Students_Where_They_Are_Plan.txt](Meeting_Students_Where_They_Are_Plan.txt)
-* **Return to Project Portfolio:** ⬅️ [Project 3 Rationale & Analysis](../README.md)
+* **Download Working Action Plan:** [Meeting_Students_Where_They_Are_Plan.txt](Meeting_Students_Where_They_Are_Plan.txt)
+* **Return to Project Portfolio:** [Project 3 Rationale & Analysis](../README.md)

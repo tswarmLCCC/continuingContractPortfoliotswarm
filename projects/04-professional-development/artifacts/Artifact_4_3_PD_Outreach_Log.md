@@ -3,13 +3,8 @@
 > **Faculty Member:** Trevor Swarm  
 > **Discipline:** Computer Science & Artificial Intelligence  
 > **Reporting Period:** 2023 – 2026 Continuing Contract Review Cycle  
-> **Original Document:** 📄 **[Download CET New Faculty Learning Community Syllabus (.pdf)](LCCC_New_Faculty_Learning_Community_Syllabus_2023_2024.pdf)**  
+> **Original Document:** **[Download CET New Faculty Learning Community Syllabus (.pdf)](LCCC_New_Faculty_Learning_Community_Syllabus_2023_2024.pdf)**  
 > **Source Archive:** `legacy/supportDocs/LCCC New Faculty Learning Community Syllabus 2023-24.pdf`  
-
----
-
-> [!TIP]
-> **Primary Source Document:** The official Center for Excellence in Teaching (CET) New Faculty Learning Community cohort syllabus is available for download: **[LCCC_New_Faculty_Learning_Community_Syllabus_2023_2024.pdf](LCCC_New_Faculty_Learning_Community_Syllabus_2023_2024.pdf)**.
 
 ---
 
@@ -46,5 +41,5 @@ In computer science and artificial intelligence, professional development is not
 ---
 
 ## 4. Primary Document Verification
-* **Download CET NFLC Cohort Syllabus:** 📄 [LCCC_New_Faculty_Learning_Community_Syllabus_2023_2024.pdf](LCCC_New_Faculty_Learning_Community_Syllabus_2023_2024.pdf)
-* **Return to Project Portfolio:** ⬅️ [Project 4 Rationale & Analysis](../README.md)
+* **Download CET NFLC Cohort Syllabus:** [LCCC_New_Faculty_Learning_Community_Syllabus_2023_2024.pdf](LCCC_New_Faculty_Learning_Community_Syllabus_2023_2024.pdf)
+* **Return to Project Portfolio:** [Project 4 Rationale & Analysis](../README.md)
