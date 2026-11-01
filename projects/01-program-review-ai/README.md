@@ -1,6 +1,6 @@
 # Project Rationale, LCCC Teaching Portfolio
 **Domain |** Competency-Based Design  
-**Competency |** Program Review (*Assist in design, implementation, and review of academic programs aligned with current or emerging community, state, or national needs*)  
+**Competency |** Program Creation, Implementation & Review (*Assist in design, implementation, and review of academic programs aligned with current or emerging community, state, or national needs*)  
 **Candidate |** Trevor Swarm, 2023 Faculty Cohort  
 
 ---
@@ -18,17 +18,25 @@ This project details my central role in researching, designing, and launching th
 ### Artifact 1: WCCC New Program Request Form (AAS in Artificial Intelligence)
 * **Context & Nature:** The official, approved state-level proposal submitted to the Wyoming Community College Commission (March 2024).
 * **Layman Description:** This document serves as the master charter for the new degree. It outlines regional labor market data, details budget and state priority alignment under the WIP II grant (Digital Information Technology pillar), and defines the complete 63–64 credit graduation sequence. It proves the formal institutional alignment required to launch an accredited workforce degree.
-* **Artifact Reference:** [Artifact 1.1: WCCC New Program Request Form Summary](artifacts/WCCC_New_Program_Request_Form_AI.md)
+* **Executive Summary:** [Artifact 1.1: WCCC New Program Request Form Summary](artifacts/WCCC_New_Program_Request_Form_AI.md)
+* **Original Primary Document:** [Download Official WCCC Proposal (.docx)](artifacts/WCCC_New_Program_Request_Form_AI.docx)
 
 ### Artifact 2: AIML Course Curriculum Scaffold & Official Competencies
 * **Context & Nature:** Comprehensive course outlines and approved competencies for AIML 1010, AIML 1020, AIML 1030, AIML 2030, AIML 2040, AIML 2050, AIML 2395, and COSC 2060, paired with the Curriculog competency mapping.
 * **Layman Description:** These documents illustrate both the pedagogical progression of the degree and our continuous curricular refinement. Working in partnership with LCCC's Director of Assessment, I led an institutional review that streamlined seven complex, fragmented initial draft outcomes into four focused Program Competencies (*Technical Execution, Strategic Application, Responsible AI Practice, and Data Engineering*). Mapped across Curriculog on an Introduce-Reinforce-Master scaffolding continuum, these competencies transition learners from foundational 'no-code' logic in year one to applied neural network and client-facing capstone defense (`AIML 2395`) in year two.
-* **Artifact Reference:** [Artifact 1.2: AIML Course Competencies & Syllabi Scaffold](artifacts/AIML_Combined_Syllabus_2025_2026.md)
+* **Executive Summary:** [Artifact 1.2: AIML Course Competencies & Syllabi Scaffold](artifacts/AIML_Combined_Syllabus_2025_2026.md)
+* **Original Primary Documents:**
+  * [Download Master AIML Syllabi (.docx)](artifacts/AIML_Combined_Syllabus_2025_2026.docx)
+  * [Download Curriculog Competency Revision Matrix (.xlsx)](artifacts/Curriculog_Competency_Mappings_Revisions.xlsx)
+  * [Download Revised Course Competencies (.docx)](artifacts/Artificial_Intelligence_Course_Competencies_Revised.docx)
 
 ### Artifact 3: AI Professional Advisory Committee (PAC) Minutes & Curricular Actions
 * **Context & Nature:** Official meeting records, transcripts, and stakeholder feedback logs from PAC sessions with regional industry leaders and university partners.
 * **Layman Description:** This artifact provides concrete evidence of how external feedback directly altered course designs. Regional employers and state agency partners emphasized that entry-level practitioners spend the vast majority of their time on data preparation rather than theoretical mechanics: *"Junior AI hires rarely build foundation models from scratch; over 80% of our actual technical workload is data ingestion, SQL querying, schema validation, and pipeline cleaning."* In direct response, I designed and introduced `COSC 2060: Data Engineering` to provide dedicated SQL and cloud data pipeline instruction.
-* **Artifact Reference:** [Artifact 1.3: 2025 STEM-AI PAC Meeting Minutes & Action Plan](artifacts/2025_STEM_AI_PAC_Meeting_Recap.md)
+* **Executive Summary:** [Artifact 1.3: 2025 STEM-AI PAC Meeting Minutes & Action Plan](artifacts/2025_STEM_AI_PAC_Meeting_Recap.md)
+* **Original Primary Documents:**
+  * [Download 2025 STEM-AI PAC Meeting Recap (.docx)](artifacts/2025_STEM_AI_PAC_Meeting_Recap.docx)
+  * [Download 2024 AI Advisory Meeting Minutes (.docx)](artifacts/AI_Advisory_Meeting_Minutes_1_4_24.docx)
 
 ---
 
