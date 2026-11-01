@@ -3,8 +3,8 @@
 > **Committee:** LCCC Artificial Intelligence & STEM Professional Advisory Committee  
 > **Meeting Cycles:** January 2024 (Inaugural Planning) & January 2025 (Curriculum Review)  
 > **Key Attendees:**  
-> * **Industry & State Partners:** Eric Trowbridge (Blue Federal Credit Union), Karen Rogers (Bureau of Land Management), Carmen (DOCA Healthcare AI), Chad Marley (LCCC CTO), State of Wyoming Enterprise Technology Services (ETS)  
-> * **Academic Partners:** Dr. Raya (University of Wyoming School of Computing), Julie Calkins (Laramie County School District #1)  
+> * **Industry & State Partners:** Eric Trowbridge (Blue Federal Credit Union), Karen Rogers (Bureau of Land Management), Carmen Benitez (DOCA Healthcare AI), Chad Marley (LCCC Chief Technology Officer (CTO)), Drew Dilley (State of Wyoming Enterprise Technology Services (ETS)), Erin Moore (Gannett Peak Technologies)
+> * **Academic Partners:** Dr. Raya Hegeman-Davis (University of Wyoming School of Computing), Julie Calkins (Laramie County School District #1)
 > * **LCCC STEM Leadership:** Bryan Wilson (Dean/Director), Trent Morrell (STEM Pathway Coordinator), Trevor Swarm (Faculty Lead & Facilitator)  
 > **Source Files:** `legacy/Project 1 Course Development/2025 STEM-AI PAC Meeting Recap.docx`, `legacy/Project 1 Course Development/AI Advisory Meeting Minutes-1.4.24.docx`, and `legacy/Unfiled/PAC Meeting Transcription copy-paste.docx`  
 
@@ -19,7 +19,7 @@ The Artificial Intelligence Advisory Group was convened to guide the curriculum 
 ## 2. Key Stakeholder Findings & Direct Curricular Actions
 
 ### Finding 1: Builders vs. Users — Emphasizing Practical Data Engineering
-* **Stakeholder Feedback:** Advisory members emphasized that community college graduates must be trained as **creators and builders**, not merely end-users of commercial AI tools. Furthermore, industry partners (including state agencies and enterprise IT) noted that over 80% of entry-level technical work involves data ingestion, SQL pipeline validation, and data cleaning rather than theoretical model derivation.
+* **Stakeholder Feedback:** Advisory members emphasized that community college graduates must be trained as **creators and builders**, not merely end-users of commercial AI tools. Erin Moore of Gannett Peak Technologies was a key industry voice emphasizing that SQL skills are vital to the curriculum. Industry and state partners also highlighted the importance of data ingestion, SQL pipeline validation, and data cleaning in entry-level technical work.
 * **Curricular Action Taken by Trevor Swarm:**
   * Created and introduced **`COSC 2060: Data Engineering`** as a required course in the degree sequence, focusing on relational database architecture, SQL, cloud ETL pipelines, and data quality assurance.
   * Embedded local AI development environments via the newly established WIP-funded **LCCC AI Lab**, allowing students to deploy and fine-tune open-weights models locally and safely.

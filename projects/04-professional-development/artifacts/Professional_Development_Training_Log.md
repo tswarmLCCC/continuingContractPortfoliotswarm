@@ -15,6 +15,7 @@
 | **2024 / FA** | Wyoming Innovation Partnership (WIP) Statewide Summit | State of Wyoming | Coordinating statewide STEM pathways, high school dual-enrollment, and regional tech workforce needs. |
 | **2025 / SP** | Generative AI & Retrieval-Augmented Generation (RAG) Symposium | Higher Education Tech Consortium | Vector database integration, semantic search, and human-in-the-loop AI ethics. |
 | **2025 / FA** | LCCC Center for Excellence in Teaching (CET) Workshops | LCCC CET | Accessibility formatting, universal design for learning, and interactive formative assessment strategies. |
+| **Ongoing** | Formal AI training and self-directed professional learning | Intel and National Applied AI Consortium (NAAIC); independent study | Tracking rapid developments in large language models (LLMs) and multi-level agentic AI instruction; adapting current AI practice for Associate-degree teaching. |
 
 ---
 

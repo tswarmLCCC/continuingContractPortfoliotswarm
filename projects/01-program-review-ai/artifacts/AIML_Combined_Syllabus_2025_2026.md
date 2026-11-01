@@ -9,13 +9,15 @@
 
 ## 1. Continuous Improvement: Program-Level Competency Evolution
 
-A hallmark of rigorous program review is the continuous refinement of learning outcomes based on institutional assessment feedback. Following initial state approval, I collaborated closely with **LCCC's Director of Assessment** to evaluate our initial program competencies. 
+A hallmark of rigorous program review is the continuous refinement of learning outcomes based on institutional assessment feedback. Following initial state approval, I worked directly with the **Program Director** and **LCCC's Director of Assessment** to review the approved program competencies.
 
-Our assessment audit revealed that the initial draft outcomes were overly complex, fragmented across seven multi-clause statements, and difficult to benchmark quantitatively in student capstone defenses. In response, we streamlined the framework into **four core, measurable Program Competencies** that capture the full technical, strategic, ethical, and engineering scope of the degree.
+We recognized that the original approved competencies were overly complex and significantly redundant, making them less accessible and harder to assess consistently. Working together, we refined the competencies into **four simpler, more accessible, measurable Program Competencies** that capture the technical, strategic, ethical, and engineering scope of the degree. The team then systematically mapped each refined competency to course outcomes across different courses in the program. The Curriculog matrix below summarizes how the competencies are introduced, reinforced, and mastered across the course sequence.
+
+Maintaining this curriculum also requires ongoing professional learning. I pursue formal development through Intel and the National Applied AI Consortium (NAAIC), supplemented by self-directed study, to keep pace with rapidly emerging AI, including large language models (LLMs) and, more recently, multi-level agentic AI instruction.
 
 ### Comparison: Initial Draft vs. Refined Program Competencies
 
-| Initial Draft Competencies (Complex & Redundant) | Refined Program Competencies (Assessment-Directed) | Curricular Focus & Application |
+| Original Approved Competencies (Complex & Redundant) | Refined Program Competencies (Assessment-Directed) | Curricular Focus & Application |
 | :--- | :--- | :--- |
 | *1. "Evaluate business problems using common artificial intelligence concepts..."*<br>*2. "Evaluate usefulness of AI solutions with statistical analysis..."* | **1. Technical Execution:**<br>Evaluate machine learning and deep learning methodologies, and implement efficient models using appropriate programming frameworks and statistical analysis. | Core algorithmic modeling, Python frameworks (PyTorch/Scikit-Learn), regression/classification, neural architectures. |
 | *3. "Solve social and business issues by applying AI project development principles..."*<br>*4. "Create AI solutions using appropriate programming languages..."* | **2. Strategic Application:**<br>Analyze organizational requirements to engineer effective solutions through the AI development lifecycle. | Problem decomposition, business intelligence, feasibility studies, end-to-end client deliverables. |
