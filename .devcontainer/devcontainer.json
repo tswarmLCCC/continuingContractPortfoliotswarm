@@ -1,0 +1,27 @@
+{
+  "name": "Secure Course Builder",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      },
+      "extensions": [
+        "ms-python.python"
+      ]
+    }
+  },
+
+  // Run as a standard user, not root
+  "remoteUser": "vscode",
+
+  // Prevent privilege escalation
+  "runArgs": [
+    "--security-opt", "no-new-privileges:true"
+  ],
+
+  // List the packages your project needs here
+  "postCreateCommand": "pip install python-pptx markitdown jupyter"
+}
+

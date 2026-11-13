@@ -1,6 +1,6 @@
-# Artifact 2.3: Student Feedback Reflections & Summer Independent Study Recovery Memo
+# Artifact 2.4: Student Feedback Reflections on the Portfolio Model
 
-> **Evidence Group:** Student Voices & Structural Advocacy  
+> **Evidence Group:** Student Voices on Choice-Based Assessment  
 > **Instructor:** Trevor Swarm  
 > **Original Documents:**  
 > * **[Download Student Feedback Artifacts (.docx)](Sample_Portfolio_Feedback.docx)**  
@@ -21,21 +21,7 @@
 
 ---
 
-## 2. Summer Independent Study Memo: Student Pathway Advocacy
-
-### The Situation
-In Spring 2026, an administrative course scheduling cancellation left three sophomore computing students without a required database prerequisite needed to graduate or transfer on time.
-
-### The Faculty Intervention
-Rather than requiring the students to delay graduation by a full academic year, Trevor Swarm:
-1. Developed an accelerated, modern PostgreSQL and SQL curriculum over the summer of 2026.
-2. Submitted formal independent study paperwork through the department chair and academic dean.
-3. Conducted weekly 1-on-1 code reviews and lab mentorship throughout the term at no additional cost to the department.
-4. Guaranteed that all three students completed their degree requirements and graduated on schedule.
-
----
-
-## 3. Primary Document Verification
+## 2. Primary Document Verification
 * **Download Student Feedback Artifact:** [Sample_Portfolio_Feedback.docx](Sample_Portfolio_Feedback.docx)
 * **Download Master Course Syllabus:** [COSC_2409_Python_Syllabus.docx](COSC_2409_Python_Syllabus.docx)
 * **Return to Project Portfolio:** [Project 2 Rationale & Analysis](../README.md)
